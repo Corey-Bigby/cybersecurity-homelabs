@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Labs-2-blue?style=flat-square" alt="Labs">
   <img src="https://img.shields.io/badge/Focus-Blue%20Team-0A66C2?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Studying-Security%2B%20SY0--701-C8102E?style=flat-square" alt="Security+">
+  <img src="https://img.shields.io/badge/Certified-Security%2B%20SY0--701-C8102E?style=flat-square" alt="Security+ certified">
 </p>
 
 ---
