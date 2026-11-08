@@ -1,0 +1,12 @@
+﻿*.iso
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+*.ova
+*.pcap
+*.key
+*.pem
+.env
+Thumbs.db
+desktop.ini
